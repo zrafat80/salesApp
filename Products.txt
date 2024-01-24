@@ -1,0 +1,2 @@
+2   2          CHEPCI.    6    4
+6   5       COCA COLA.   10    4

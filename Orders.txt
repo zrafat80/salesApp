@@ -1,0 +1,27 @@
+The id of Customer is : 2
+id of order : 1,Number of order : 1,The Total of Price : 10,The Status of Order : NEW
+The date of order : 10/02/2022
+  The Order item list   
+1.  id : 2,Quantity : 0,Price : 10
+
+The id of Customer is : 2
+id of order : 1,Number of order : 1,The Total of Price : 1740,The Status of Order : NEW
+The date of order : 10/02/2022
+  The Order item list   
+1.  id : 2,Quantity : 10,Price : 130
+2.  id : 5,Quantity : 20,Price : 35
+
+The id of Customer is : 2
+id of order : 2,Number of order : 1,The Total of Price : 235,The Status of Order : NEW
+The date of order : 10/02/2022
+  The Order item list   
+1.  id : 2,Quantity : 5,Price : 13
+2.  id : 5,Quantity : 20,Price : 20
+
+The id of Customer is : 2
+id of order : 1,Number of order : 1,The Total of Price : 46,The Status of Order : NEW
+The date of order : 10/02/2022
+  The Order item list   
+1.  id : 2,Quantity : 10,Price : 10
+2.  id : 5,Quantity : 2,Price : 13
+

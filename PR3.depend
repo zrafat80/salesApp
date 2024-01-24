@@ -1,0 +1,389 @@
+# depslib dependency file v1.0
+1655122908 source:c:\users\omar\documents\pr3\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<bits/stdc++.h>
+	<windows.h>
+	"Customers.h"
+	"Transactions.h"
+	"Products.h"
+	"stock.h"
+	"Orders.h"
+
+1654258522 source:c:\users\omar\documents\pr3\src\company.cpp
+	"Company.h"
+
+1654246307 c:\users\omar\documents\pr3\include\company.h
+	"Customer.h"
+
+1655063296 c:\users\omar\documents\pr3\include\customer.h
+	"Customer.h"
+	<iostream>
+	<fstream>
+
+1655063824 source:c:\users\omar\documents\pr3\src\customer.cpp
+	"Customer.h"
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	"Person.h"
+	"Company.h"
+
+1654246292 c:\users\omar\documents\pr3\include\person.h
+	"Customer.h"
+
+1654246292 source:c:\users\omar\documents\pr3\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1655064302 source:c:\users\omar\documents\pr3\src\customers.cpp
+	"Customers.h"
+	<fstream>
+	"Customer.h"
+	<iostream>
+	<vector>
+
+1655063296 c:\users\omar\documents\pr3\include\customers.h
+	"Customer.h"
+
+1655122542 source:c:\users\omar\documents\pr3\src\product.cpp
+	"Product.h"
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
+1655122542 c:\users\omar\documents\pr3\include\product.h
+	<iostream>
+
+1655122556 source:c:\users\omar\documents\pr3\src\products.cpp
+	"Products.h"
+	"Product.h"
+	<iostream>
+	<fstream>
+	<vector>
+
+1655122542 c:\users\omar\documents\pr3\include\products.h
+	"product.h"
+
+1655064824 source:c:\users\omar\documents\pr3\src\stock.cpp
+	"Stock.h"
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	"Products.h"
+
+1655064824 c:\users\omar\documents\pr3\include\stock.h
+	"Products.h"
+	<vector>
+	"Product.h"
+
+1654349066 source:c:\users\omar\documents\pr3\src\time.cpp
+	"Time.h"
+	<iostream>
+
+1654355543 c:\users\omar\documents\pr3\include\time.h
+
+1655122542 source:c:\users\omar\documents\pr3\src\orderitem.cpp
+	"Orderitem.h"
+	"Stock.h"
+	"Products.h"
+	<iostream>
+	<fstream>
+
+1655134114 c:\users\omar\documents\pr3\include\orderitem.h
+	"Stock.h"
+	<fstream>
+
+1655128096 source:c:\users\omar\documents\pr3\src\orders.cpp
+	"Orders.h"
+	"Order.h"
+	<iostream>
+	<vector>
+
+1655122917 c:\users\omar\documents\pr3\include\orders.h
+	"Order.h"
+
+1655122908 c:\users\omar\documents\pr3\include\order.h
+	"Date.h"
+	<Customer.h>
+	"Customers.h"
+	"Orderitem.h"
+	<vector>
+
+1655029319 source:c:\users\omar\documents\pr3\src\date.cpp
+	"Date.h"
+	"Customers.h"
+	<fstream>
+	<bits/stdc++.h>
+	"Customer.h"
+	<iostream>
+
+1655029319 c:\users\omar\documents\pr3\include\date.h
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1655122908 source:c:\users\omar\documents\pr3\src\order.cpp
+	"Order.h"
+	"Date.h"
+	"Customers.h"
+	<iostream>
+	"Customer.h"
+	"Orderitem.h"
+	<bits/stdc++.h>
+
+1655033865 source:c:\users\omar\documents\pr3\src\cash.cpp
+	"Cash.h"
+	<iostream>
+	<fstream>
+
+1655033865 c:\users\omar\documents\pr3\include\cash.h
+	"Payment.h"
+	<iostream>
+	<fstream>
+
+1655035561 c:\users\omar\documents\pr3\include\payment.h
+	"Date.h"
+	<fstream>
+
+1655033865 source:c:\users\omar\documents\pr3\src\check.cpp
+	"Check.h"
+	<iostream>
+	<fstream>
+
+1655033865 c:\users\omar\documents\pr3\include\check.h
+	"Payment.h"
+	<iostream>
+	<fstream>
+
+1655033865 source:c:\users\omar\documents\pr3\src\credit.cpp
+	"Credit.h"
+	<iostream>
+	<fstream>
+
+1655033865 c:\users\omar\documents\pr3\include\credit.h
+	"Payment.h"
+	<iostream>
+	<fstream>
+
+1655035626 source:c:\users\omar\documents\pr3\src\payment.cpp
+	"Payment.h"
+	<iostream>
+	"Cash.h"
+	"Check.h"
+	"Credit.h"
+
+1655066239 source:c:\users\omar\documents\pr3\src\transactions.cpp
+	"Transactions.h"
+	<iostream>
+	<fstream>
+	"Transaction.h"
+	<vector>
+
+1655066209 c:\users\omar\documents\pr3\include\transactions.h
+
+1655034809 c:\users\omar\documents\pr3\include\transaction.h
+	"Order.h"
+	"Date.h"
+	"Payment.h"
+	<fstream>
+
+1655066478 source:c:\users\omar\documents\pr3\src\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<fstream>
+	"Orders.h"
+
+1655122908 source:c:\users\omar\desktop\20912021100.728\pr3\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<bits/stdc++.h>
+	<windows.h>
+	"Customers.h"
+	"Transactions.h"
+	"Products.h"
+	"stock.h"
+	"Orders.h"
+
+1655063296 c:\users\omar\desktop\20912021100.728\pr3\include\customers.h
+	"Customer.h"
+
+1655063296 c:\users\omar\desktop\20912021100.728\pr3\include\customer.h
+	"Customer.h"
+	<iostream>
+	<fstream>
+
+1655066209 c:\users\omar\desktop\20912021100.728\pr3\include\transactions.h
+
+1655122542 c:\users\omar\desktop\20912021100.728\pr3\include\products.h
+	"product.h"
+
+1655122542 c:\users\omar\desktop\20912021100.728\pr3\include\product.h
+	<iostream>
+
+1655064824 c:\users\omar\desktop\20912021100.728\pr3\include\stock.h
+	"Products.h"
+	<vector>
+	"Product.h"
+
+1655122917 c:\users\omar\desktop\20912021100.728\pr3\include\orders.h
+	"Order.h"
+
+1655122908 c:\users\omar\desktop\20912021100.728\pr3\include\order.h
+	"Date.h"
+	<Customer.h>
+	"Customers.h"
+	"Orderitem.h"
+	<vector>
+
+1655029319 c:\users\omar\desktop\20912021100.728\pr3\include\date.h
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1655134114 c:\users\omar\desktop\20912021100.728\pr3\include\orderitem.h
+	"Stock.h"
+	<fstream>
+
+1655033865 source:c:\users\omar\desktop\20912021100.728\pr3\src\cash.cpp
+	"Cash.h"
+	<iostream>
+	<fstream>
+
+1655033865 c:\users\omar\desktop\20912021100.728\pr3\include\cash.h
+	"Payment.h"
+	<iostream>
+	<fstream>
+
+1655035561 c:\users\omar\desktop\20912021100.728\pr3\include\payment.h
+	"Date.h"
+	<fstream>
+
+1655033865 source:c:\users\omar\desktop\20912021100.728\pr3\src\check.cpp
+	"Check.h"
+	<iostream>
+	<fstream>
+
+1655033865 c:\users\omar\desktop\20912021100.728\pr3\include\check.h
+	"Payment.h"
+	<iostream>
+	<fstream>
+
+1654258522 source:c:\users\omar\desktop\20912021100.728\pr3\src\company.cpp
+	"Company.h"
+
+1654246307 c:\users\omar\desktop\20912021100.728\pr3\include\company.h
+	"Customer.h"
+
+1655033865 source:c:\users\omar\desktop\20912021100.728\pr3\src\credit.cpp
+	"Credit.h"
+	<iostream>
+	<fstream>
+
+1655033865 c:\users\omar\desktop\20912021100.728\pr3\include\credit.h
+	"Payment.h"
+	<iostream>
+	<fstream>
+
+1655063824 source:c:\users\omar\desktop\20912021100.728\pr3\src\customer.cpp
+	"Customer.h"
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	"Person.h"
+	"Company.h"
+
+1654246292 c:\users\omar\desktop\20912021100.728\pr3\include\person.h
+	"Customer.h"
+
+1655064302 source:c:\users\omar\desktop\20912021100.728\pr3\src\customers.cpp
+	"Customers.h"
+	<fstream>
+	"Customer.h"
+	<iostream>
+	<vector>
+
+1655029319 source:c:\users\omar\desktop\20912021100.728\pr3\src\date.cpp
+	"Date.h"
+	"Customers.h"
+	<fstream>
+	<bits/stdc++.h>
+	"Customer.h"
+	<iostream>
+
+1655122908 source:c:\users\omar\desktop\20912021100.728\pr3\src\order.cpp
+	"Order.h"
+	"Date.h"
+	"Customers.h"
+	<iostream>
+	"Customer.h"
+	"Orderitem.h"
+	<bits/stdc++.h>
+
+1655122542 source:c:\users\omar\desktop\20912021100.728\pr3\src\orderitem.cpp
+	"Orderitem.h"
+	"Stock.h"
+	"Products.h"
+	<iostream>
+	<fstream>
+
+1655128096 source:c:\users\omar\desktop\20912021100.728\pr3\src\orders.cpp
+	"Orders.h"
+	"Order.h"
+	<iostream>
+	<vector>
+
+1655035626 source:c:\users\omar\desktop\20912021100.728\pr3\src\payment.cpp
+	"Payment.h"
+	<iostream>
+	"Cash.h"
+	"Check.h"
+	"Credit.h"
+
+1654246292 source:c:\users\omar\desktop\20912021100.728\pr3\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1655122542 source:c:\users\omar\desktop\20912021100.728\pr3\src\product.cpp
+	"Product.h"
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
+1655122556 source:c:\users\omar\desktop\20912021100.728\pr3\src\products.cpp
+	"Products.h"
+	"Product.h"
+	<iostream>
+	<fstream>
+	<vector>
+
+1655064824 source:c:\users\omar\desktop\20912021100.728\pr3\src\stock.cpp
+	"Stock.h"
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	"Products.h"
+
+1655066478 source:c:\users\omar\desktop\20912021100.728\pr3\src\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<fstream>
+	"Orders.h"
+
+1655034809 c:\users\omar\desktop\20912021100.728\pr3\include\transaction.h
+	"Order.h"
+	"Date.h"
+	"Payment.h"
+	<fstream>
+
+1655066239 source:c:\users\omar\desktop\20912021100.728\pr3\src\transactions.cpp
+	"Transactions.h"
+	<iostream>
+	<fstream>
+	"Transaction.h"
+	<vector>
+

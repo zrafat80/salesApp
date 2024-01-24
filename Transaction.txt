@@ -1,0 +1,8 @@
+1 . The id of Transaction : 1
+The id of Customer is : 2
+id of order : 1,Number of order : 1,The Total of Price : 10,The Status of Order : NEW
+The date of order : 10/02/2022
+  The Order item list   
+1.  id : 2,Quantity : 0,Price : 10
+
+The payment Method : Credit
